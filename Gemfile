@@ -54,3 +54,4 @@ gem 'pry-byebug'
 gem 'pry-stack_explorer'
 gem "jquery-rails"
 gem 'bcrypt'
+gem "carrierwave"
