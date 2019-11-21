@@ -1,12 +1,5 @@
 Rails.application.routes.draw do
-  get 'comments/new'
-
-  get 'comments/create'
-
-      get 'topics/new'
-    
-      get 'sessions/new'
-    
+  
       root 'pages#index'
       get 'pages/help'
      
